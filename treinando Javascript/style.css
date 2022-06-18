@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: rgb(152, 152, 233);
+    font: normal 15pt;
+}
+
+.secao{
+
+   
+    border-radius: 10px;
+   padding: 15px;
+   margin: auto;
+   border-radius: 10px;
+   background-color: white;
+   text-align: left;
+   width: 500px;
+   
+
+}
+.fim{
+    padding: 10px;
+}
+.bott{
+    padding: 10px;
+}
+.ending{
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
